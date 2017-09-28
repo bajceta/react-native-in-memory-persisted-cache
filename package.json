@@ -1,0 +1,27 @@
+{
+  "name": "react-native-in-memory-persisted-cache",
+  "version": "1.0.0",
+  "description": "Simple in memory cache, backed by react-native-clcacher",
+  "main": "index.js",
+  "dependencies": {
+    "react-native-clcasher": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajceta/react-native-in-memory-persisted-cache.git"
+  },
+  "keywords": [
+    "react-native",
+    "cache"
+  ],
+  "author": "Vladimir Bajčeta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bajceta/react-native-in-memory-persisted-cache/issues"
+  },
+  "homepage": "https://github.com/bajceta/react-native-in-memory-persisted-cache#readme"
+}
